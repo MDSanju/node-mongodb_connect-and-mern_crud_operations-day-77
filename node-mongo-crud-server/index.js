@@ -74,7 +74,7 @@ async function run() {
 
 
 app.get('/', (req, res) => {
-    res.send('Running CRUD Server!');
+    res.send("Running CRUD Operations Server!");
 });
 
 
